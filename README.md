@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Prashant%20Saini%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20ChaiCode%20WebDev%20Cohort%202.0&descAlignY=60&descSize=16&descColor=cccccc" width="100%"/>
 </div>
 
@@ -235,4 +235,4 @@ while (prashant.backlogStatus !== "cleared") {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
-</div>
+</div> -->
